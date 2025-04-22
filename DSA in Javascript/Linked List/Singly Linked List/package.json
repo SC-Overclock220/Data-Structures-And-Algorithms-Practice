@@ -1,0 +1,13 @@
+{
+  "name": "singly-linked-list",
+  "version": "1.0.0",
+  "main": "Main.js",
+  "type": "module",
+  "scripts": {
+    "execute": "node Main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
